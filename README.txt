@@ -1,8 +1,4 @@
-
-Name: Lalithanjana Kollipara
-G#: G01386376
-
-CS584 Data Mining Project 3: AdaBoost using Decision Stumps as Weak Learners
+AdaBoost using Decision Stumps as Weak Learners
 
 
 In order to run the code on Jupyter Notebook, please make sure the below packages are installed:
